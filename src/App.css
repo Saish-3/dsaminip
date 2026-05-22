@@ -606,18 +606,6 @@ body {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 }
 
-.footer {
-  background: rgba(0, 0, 0, 0.1);
-  color: white;
-  padding: 30px 20px;
-  text-align: center;
-  margin-top: 50px;
-}
-
-.footer p {
-  margin: 10px 0;
-}
-
 @media (max-width: 768px) {
   .header h1 {
     font-size: 1.8em;

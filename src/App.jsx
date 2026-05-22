@@ -622,11 +622,6 @@ export default function App() {
           </div>
         )}
       </div>
-
-      <footer className="footer">
-        <p>🚀 Railway Network Management System | React + Advanced Data Structures & Algorithms</p>
-        <p>Dijkstra O(E log V) | Prim's O(E log V) | Booking O(1) | Cancellation O(n)</p>
-      </footer>
     </div>
   );
 }
